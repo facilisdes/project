@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel - dev
+                    Laravel - dev - autopull with Jenkins 1
                 </div>
 
                 <div class="links">
